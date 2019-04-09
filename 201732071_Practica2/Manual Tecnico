@@ -1,0 +1,319 @@
+Inicio
+    boton=nuevo boton
+    n=nuevo arreglo enteros
+    var gan=0,bloq=0
+    barra
+    menu
+    var reiniciar,salir,Lista;
+        Titulo"TORRES Y ALFILES"
+        TamañoVentana(800,600);
+	posicion Ventana(300,100);
+        CrearTablero
+        Acciones
+        salir Ventana
+        
+        Barra
+        Menu
+        Menu por teclado
+        Menu establezer texto
+
+        agregar menu a barra
+
+        reiniciar
+        reiniciar establecer reinicio
+        reiniciar por teclado
+        reiniciar establecer texto
+
+
+                para(var i=0;i<8;i++)
+                    para(int j=0;j<8;j++)
+                        boton obtiene imagen
+                        boton pregunta 
+                        arreglo n =0
+                        gan=0;
+                        bloq=0;
+ 
+        Menu agragar reinicio
+        Lista
+        Lista obtiene lista
+        Lista por teclado
+        Lista nombre "Listado juagadores"
+        Menu agregar salir
+
+        salir
+       
+        salir por teclado
+        salir("Salir")
+    
+        Menu agregar salir
+
+	CrearTablero()
+        para(var i=0;i<8;i++)
+            para(int j=0;j<8;j++)
+                boton pedir
+                boton escribir "PRESIONA PARA COLOCAR OBJETO"
+                si(i%2==0)
+                    si(j%2==0) 
+			color boron
+                    si(j%2!=0) 
+			color boton
+
+                aagragr boton
+                arreglo n =0;
+  
+    
+  Acciones(){       
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+       accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+       
+	 accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+        
+
+	accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+
+        accion boton(i)(j) 
+            Accion activada
+                movimientoAlfil(i,j)
+    
+		 movimientoTorre(var col,var fil)
+	imagen boton
+        var c=col
+        var f=fil
+        var aux=0
+
+
+        mientras(true)
+
+            fil=fil+1
+            si(col<0 || fil>7)
+                aux=aux+1;
+                descansar;
+            si(n[col][fil]==1 
+                descansar
+
+
+        //diagonal arriba izquierda
+        col=c;
+        fil=f;
+        mientras(true)
+
+            fil=fil-1;
+            if(col<0 || fil<0)
+                aux=aux+1;
+                descansr
+            
+            if(n[col][fil]==1)
+                descansar
+  
+
+        Fin
